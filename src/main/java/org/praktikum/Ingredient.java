@@ -1,4 +1,4 @@
-package praktikum;
+package org.praktikum;
 
 /**
  * Модель ингредиента.
