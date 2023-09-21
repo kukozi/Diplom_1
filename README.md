@@ -19,7 +19,7 @@ An educational project dedicated to a unit-testing
 Java: 11.0.19  
 Apache Maven: 3.9.1  
 Junit: 4.13.2  
-Jacoco 0.8.8
+Jacoco 0.8.8  
 Mockito 4.2.0
 
 
